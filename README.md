@@ -9,3 +9,5 @@ This adds a couple of missing features to GitHub's PR review UI:
 
 This can be helpful in getting and keeping some global context top of mind as you make your way through a PR. Works best with the kind of PR that consists of many granular commits with descriptive commit messages.
 
+![gh](https://user-images.githubusercontent.com/140521/52420568-4cacef00-2ac0-11e9-8312-5b5d751f8ae7.gif)
+
