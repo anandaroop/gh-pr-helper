@@ -1,6 +1,6 @@
 # gh-pr-helper
 
-Quickie Chrome Extension hack with GitHub API
+Quickie Chrome Extension hack with GitHub API, from 2017.
 
 This adds a couple of missing features to GitHub's PR review UI:
 
